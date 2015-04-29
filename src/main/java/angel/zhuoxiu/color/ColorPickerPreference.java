@@ -17,7 +17,6 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import angel.zhuoxiu.preference.R;
 
 public class ColorPickerPreference extends CheckBoxPreference {
 	public interface OnColorPickedListener {
